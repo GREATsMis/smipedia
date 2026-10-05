@@ -1,2 +1,1 @@
-# smipedia
-sMis.
+
